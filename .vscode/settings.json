@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.rightClickBehavior": "paste",
+    "terminal.integrated.copyOnSelection": true,
+    "markdown.editor.pasteUrlAsFormattedLink.enabled": "smartWithSelection",
+    "editor.pasteAs.showPasteSelector": "afterPaste"
+}
